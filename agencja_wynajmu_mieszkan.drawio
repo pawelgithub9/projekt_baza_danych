@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v9sX76WJv8k3gGaXcm15-51" value="KLIENCI" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;rounded=1;shadow=0;strokeColor=default;verticalAlign=middle;swimlaneFillColor=#EDEDED;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="600" width="180" height="180" as="geometry" />
+          <mxGeometry x="520" y="440" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="v9sX76WJv8k3gGaXcm15-52" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;rounded=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;swimlaneFillColor=#EDEDED;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" vertex="1" parent="v9sX76WJv8k3gGaXcm15-51">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -313,7 +313,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v9sX76WJv8k3gGaXcm15-158" value="WYNAJMY" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;rounded=1;shadow=0;strokeColor=default;verticalAlign=middle;swimlaneFillColor=#EDEDED;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="600" width="180" height="180" as="geometry" />
+          <mxGeometry x="260" y="300" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="v9sX76WJv8k3gGaXcm15-159" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;rounded=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;swimlaneFillColor=#EDEDED;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;" vertex="1" parent="v9sX76WJv8k3gGaXcm15-158">
           <mxGeometry y="30" width="180" height="30" as="geometry" />

@@ -9,8 +9,8 @@ create table WLASCICIELE (
 	telefon varchar(15),
 	adreszamieszkania varchar(100)
 	constraint pk_wlasciiele primary key (id),
-	constraint plec_wlasciiele check (plec in ('K', 'M')),
-	constraint daty_wlasciiele check (dataurodzenia < datasmierci)
+	constraint plec_wlasciele check (plec in ('K', 'M')),
+	constraint daty_wlasciele check (dataurodzenia < datasmierci)
 )
 
 WLASCICIEL-MIESZKANIE

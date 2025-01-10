@@ -7,5 +7,7 @@ create table mieszkania (
 	typbudynku varchar(30),
 	umeblowanie bit,
 	constraint pk_mieszkania primary key (id),
-	constraint liczba_metraz check (metraz > 0)
+	constraint mieszkania_metraz check (metraz > 0)
+	constraint mieszkania_pietro check (pietro > 0)
+	constraint mieszkania_liczbapokoi check (liczbapokoi > 0)
 );

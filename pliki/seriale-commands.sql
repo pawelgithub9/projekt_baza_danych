@@ -99,3 +99,18 @@ where rokwydania >= 2010;
 update ksiazki set cena = cena * 1.2 where tytul = "Przedwiośnie";
 
 delete from pisarze where imie = "Andrzej" and nazwisko = "Sapkowski"
+
+sapkowski wrocil xd
+
+select *, datediff("yyyy", dataurodzenia, now()) as wiek
+from pisarze
+where datasmierci is null
+
+
+select *, datediff("yyyy", dataurodzenia, now()) as wiek into pisarzeMartwi
+from pisarze
+where datasmierci is null
+
+select *
+from pisarze
+where datasmierci is not NULL

@@ -2,7 +2,7 @@ create table OPLATY (
 	id autoincrement,
 	mieszkanie int not null,
 	rodzajoplaty varchar(7) not null,
-	kwota decimal(4, 2) not null,
+	kwota decimal(6, 2) not null,
 	data date not null,
 	constraint pk_oplaty primary key (id),
 	constraint fk_oplaty_mieszkanie foreign key (mieszkanie) references MIESZKANIA (id),

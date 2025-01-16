@@ -1,4 +1,4 @@
-create table WLASCICIEL-MIESZKANIE (
+create table WLASCICIELMIESZKANIE (
 	id autoincrement,
 	wlasciciel int,
 	mieszkanie int,

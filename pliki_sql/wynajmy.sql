@@ -1,8 +1,8 @@
 create table WYNAJMY (
 	id autoincrement,
-	mieszkanie int,
-	klient int,
-	datarozpoczecia date,
+	mieszkanie int not null,
+	klient int not null,
+	datarozpoczecia date not null,
 	datazakonczenia date,
 	constraint pk_wynajmy primary key (id),
 	constraint fk_wynajmy_mieszkanie foreign key (mieszkanie) references MIESZKANIA (id),

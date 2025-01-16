@@ -42,3 +42,6 @@ values ("Florencja", "Jankowska", 69062193648, "+48607393178");
 
 insert into KLIENCI (imie, nazwisko, pesel, telefon)
 values ("Jolanta", "Cieślak", 81090983521, "+48920716416");
+
+insert into KLIENCI (imie, nazwisko, pesel, telefon)
+values ("Celina", "Michalak", 56042321323, "+48926100977");

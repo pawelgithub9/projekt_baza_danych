@@ -2,7 +2,7 @@ create table MIESZKANIA (
 	id autoincrement,
 	adres varchar(100) not null,
 	liczbapokoi int not null,
-	metraz decimal(3,2) not null,
+	metraz int not null,
 	pietro int not null,
 	typbudynku varchar(30) default "kamienica",
 	umeblowanie bit not null,

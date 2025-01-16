@@ -8,6 +8,6 @@ create table MIESZKANIA (
 	umeblowanie bit not null,
 	constraint pk_mieszkania primary key (id),
 	constraint mieszkania_metraz check (metraz > 0),
-	constraint mieszkania_pietro check (pietro > 0),
+	constraint mieszkania_pietro check (pietro > -1),
 	constraint mieszkania_liczbapokoi check (liczbapokoi > 0)
 );

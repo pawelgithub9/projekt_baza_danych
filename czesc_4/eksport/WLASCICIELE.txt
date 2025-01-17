@@ -1,0 +1,7 @@
+id-imie-nazwisko-pesel-plec-telefon-adreszamieszkania
+1-Jerzy-Pawlak-74041434573-M-+48825608998-ul. Kwiecista 1, £Ûdü 93-345
+2-Przemys≥aw-Piotrowski-63111180119-M-+48976315233-ul. Henryka Sienkiewicza 101/109 m. 31, £Ûdü 90-301
+3-Bartosz-Wojciechowski-92053172852-M-+48813981317-ul. Wolnoúci 37C, AleksandrÛw £Ûdzki 95-069
+5-Krystyna-MrÛz-69022867381-K-+48752925512-ul. £anowa 6, Andrespol 95-020
+8-Milena-Szulc-11210183045-K-+498498013544-ul. Piotrkowska 114 m. 12, £Ûdü 90-001
+9-Wioletta-Zalewska-98012219267-K-+48802481314-ul. Zamkowa 32, Starowa GÛra 95-030

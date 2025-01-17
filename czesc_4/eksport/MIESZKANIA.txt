@@ -1,0 +1,16 @@
+id;adres;liczbapokoi;metraz;pietro;typbudynku;umeblowanie
+1;Ul. Konstantynowska 102C, £Ûdü 94-303;7;112;0;Dom jednorodzinny;1
+2;ul. Gimnastyczna 116 m. 12, £Ûdü 94-128;5;96;3;Apartament;1
+3;ul. Libijska 5, £Ûdü 93-482;6;92;0;Dom jednorodzinny;1
+4;ul. Profilowa 4, £Ûdü 93-447;14;216;0;Dom jednorodzinny;0
+5;ul. Oko≥owicza 30, Krzywiec 95-070;12;200;0;Dom jednorodzinny;0
+6;ul. ZaolziaÒska 13 m. 10, £Ûdü 93-545;4;56;3;Blok;1
+7;ul. Targowa 12 m. 7, £Ûdü 90-023;5;60;2;Kamienica;0
+8;ul. Nastrojowa 66 m. 4, £Ûdü 91-496;7;88;2;Blok;1
+9;ul. Aleksandrowska 100 m. 21, £Ûdü 91-224;6;72;7;Blok;0
+10;ul. M≥ynarska 41, Andrespol 95-020;12;152;0;Dom szeregowy;1
+11;ul. Macieja Rataja 110A, £Ûdü 92-637;8;96;0;Dom szeregowy;0
+12;ul. Tulipanowa 2, KonstantynÛw £Ûdzki 95-050;9;102;0;Dom jednorodzinny;0
+13;ul. Rafa≥ki 18, AleksandrÛw £Ûdzki 95-069;13;168;0;Dom jednorodzinny;1
+14;ul. Kameliowa 20, RπbieÒ 95-070;18;216;0;Dom jednorodzinny;1
+15;ul. Julianowska 1 m. 86, £Ûdü 91-473;6;68;8;Blok;1

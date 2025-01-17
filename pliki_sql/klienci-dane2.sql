@@ -1,3 +1,2 @@
-delete from KLIENCI
-inner join WYNAJMY on WYNAJMY.klient = KLIENCI.id
-where WYNAJMY.klient is null
+DELETE FROM KLIENCI
+WHERE id NOT IN (SELECT klient FROM WYNAJMY)
